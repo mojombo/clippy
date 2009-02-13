@@ -69,13 +69,13 @@ http://github.com/mojombo/clippy
 
 The best way to get your changes merged back into core is as follows:
 
-# Clone down your fork
-# Create a topic branch to contain your change
-# Hack away
-# If you are adding new functionality, document it in README.md
-# If necessary, rebase your commits into logical chunks, without errors
-# Push the branch up to GitHub
-# Send me (mojombo) a pull request for your branch
+1. Clone down your fork
+1. Create a topic branch to contain your change
+1. Hack away
+1. If you are adding new functionality, document it in README.md
+1. If necessary, rebase your commits into logical chunks, without errors
+1. Push the branch up to GitHub
+1. Send me (mojombo) a pull request for your branch
 
 License
 -------
