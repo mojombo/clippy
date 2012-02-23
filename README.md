@@ -40,7 +40,8 @@ Installation (Pre-Built SWF)
 ---------------------------
 
 If you want to use Clippy unmodified, just copy `build/clippy.swf` to your
-`public` directory or wherever your static assets can be found.
+`public` directory or wherever your static assets can be found. The file is 
+compiled for Flash 9 and above.
 
 Installation (Compiling)
 ------------------------
