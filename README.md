@@ -19,7 +19,7 @@ page:
         <param name="allowScriptAccess" value="always" />
         <param name="quality" value="high" />
         <param name="scale" value="noscale" />
-        <param NAME="FlashVars" value="text=#{text}">
+        <param NAME="FlashVars" value="text=#{CGI::escape(text)}">
         <param name="bgcolor" value="#{bgcolor}">
         <embed src="/flash/clippy.swf"
                width="110"
@@ -29,7 +29,7 @@ page:
                allowScriptAccess="always"
                type="application/x-shockwave-flash"
                pluginspage="http://www.macromedia.com/go/getflashplayer"
-               FlashVars="text=#{text}"
+               FlashVars="text=#{CGI::escape(text)}"
                bgcolor="#{bgcolor}"
         />
         </object>
