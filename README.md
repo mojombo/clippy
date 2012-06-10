@@ -29,7 +29,7 @@ page:
                allowScriptAccess="always"
                type="application/x-shockwave-flash"
                pluginspage="http://www.macromedia.com/go/getflashplayer"
-               FlashVars="text=#{text}"
+               FlashVars="text=#{CGI::escape(text)}"
                bgcolor="#{bgcolor}"
         />
         </object>
