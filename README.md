@@ -26,6 +26,7 @@ page:
                height="14"
                name="clippy"
                quality="high"
+               wmode="opaque"
                allowScriptAccess="always"
                type="application/x-shockwave-flash"
                pluginspage="http://www.macromedia.com/go/getflashplayer"
