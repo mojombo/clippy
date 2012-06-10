@@ -6,6 +6,8 @@ text onto the client's clipboard. Here is what Clippy looks like on GitHub:
 
 ![Clippy in action](http://img.skitch.com/20090213-cjiawnwig8udf5a6qf1c45cne8.png)
 
+![Clippy in action](http://img.skitch.com/20090213-cjiawnwig8udf5a6qf1c45cne8.png)
+
 Here is a sample Rails (Ruby) helper that can be used to place Clippy on a
 page:
 

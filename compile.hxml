@@ -5,3 +5,7 @@
 -swf-header 110:14:0
 --flash-use-stage
 --flash-strict
+-main Clippy
+-swf-header 110:14:0
+--flash-use-stage
+--flash-strict
