@@ -60,6 +60,12 @@ SWF, run the following from Clippy's root directory:
 If that is successful, copy `build/clippy.swf` to your
 `public` directory or wherever your static assets can be found.
 
+Note: in haXe 3+ edit compile.hxml and replace:
+--flash-use-stage
+with
+-D flash-use-stage
+
+
 Contribute
 ----------
 
